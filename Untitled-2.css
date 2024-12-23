@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: auto;
+}
+.khung{
+	width: 1185px;
+	height: 150px;
+	border: solid 1px black;
+}
+.menuduoi{
+	padding: top: 20px;
+	padding-left: 40px;
+}
+.menuduoi a {
+	padding-left: 30px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
